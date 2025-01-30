@@ -1,6 +1,3 @@
-Aqui está o texto reformatado em Markdown para o README do seu projeto:
-
-```markdown
 # **Projeto Api em Java com Spring Boot**
 
 CRUD (Create, Read, Update, Delete) em Java utilizando o framework Spring Boot e MySQL com banco de dados.
