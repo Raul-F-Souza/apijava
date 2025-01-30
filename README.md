@@ -207,5 +207,3 @@ Crie o arquivo **`style.css`** em **`src/main/resources/static/style.css`**:
 2. Acesse **`http://localhost:8080/index.html`** no navegador.
 3. Interaja com a interface para gerenciar os alunos.
 ```
-
-Com isso, o README está pronto e organizado para o seu projeto! Caso precise de mais alguma modificação ou adição, é só me avisar!
